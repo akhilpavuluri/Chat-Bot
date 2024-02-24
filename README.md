@@ -1,6 +1,8 @@
 # Chat-Bot with interdace and GPT access
 
-To access GPT with your voice, update the API key with your OpenAI API key. 
+To access GPT with your voice, update the API key with your OpenAI API key.
+<br>
+</br>
 Utilize the voice input button for input, and if voice output is enabled, it can respond vocally as well.
 
 
